@@ -1,6 +1,6 @@
 # RealTimeClock
 
-![Screenshot](screenshot.png)
+![Screenshot](https://i.ibb.co/TWKBddc/Screenshot-2023-09-12-7-37-40-PM.png)
 
 A simple real-time digital clock web application created using HTML, CSS, and JavaScript.
 
@@ -27,7 +27,7 @@ Check out the live demo [here](https://onlyglapor.github.io/RealTimeClock/).
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](https://i.ibb.co/TWKBddc/Screenshot-2023-09-12-7-37-40-PM.png)
 
 ## Contributing
 
