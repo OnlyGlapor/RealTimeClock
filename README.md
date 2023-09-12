@@ -6,7 +6,7 @@ A simple real-time digital clock web application created using HTML, CSS, and Ja
 
 ## Live Demo
 
-Check out the live demo [here](https://onlyglapor.github.io/RealTimeClock/).
+Check out the live demo [here](https://onlyglapor.github.io/RealTimeClock/index.html).
 
 ## Features
 
